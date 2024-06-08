@@ -49,6 +49,8 @@ a {
     gap: 20px;
     justify-content: center;
     flex-wrap: wrap;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .small-boxes a {
