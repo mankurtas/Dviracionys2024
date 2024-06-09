@@ -143,4 +143,15 @@ a {
     padding-top: 15px;
     padding-bottom: 15px;
     font-size: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
   }
+  
+  footer h6 {
+    margin-top: 1px;
+    margin-bottom: 1px;
+  }
+
+
