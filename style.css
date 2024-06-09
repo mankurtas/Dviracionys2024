@@ -125,7 +125,6 @@ a {
     max-width: 100%;
     height: auto;
   }
-  /* patvarkyti img */
 
 .comment {
     text-align: center;
@@ -149,9 +148,17 @@ a {
     gap: 15px;
   }
   
-  footer h6 {
+  footer p {
     margin-top: 1px;
     margin-bottom: 1px;
+    font-size: 20px;
   }
+
+  .footerImg img{
+    width: 70px;
+    height: auto;
+  }
+
+
 
 
