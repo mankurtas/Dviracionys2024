@@ -19,6 +19,21 @@ header, footer {
     padding-bottom: 10px;
 }
 
+.active-page {
+  text-decoration: underline overline;
+}
+
+.home img {
+  width: 30px;
+  height: auto;
+}
+
+.home p {
+  color: #F9FAF8;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .left-side {
     text-align: center;
     align-items: center;
@@ -107,10 +122,10 @@ a {
   }
 
   .picture img {
-    /* width: 500px; */
     max-width: 100%;
     height: auto;
   }
+  /* patvarkyti img */
 
 .comment {
     text-align: center;
@@ -118,6 +133,8 @@ a {
     border: 3px solid #1f2937;
     width: 80%;
     margin: 30px auto;
+    padding-left: 3px;
+    padding-right: 3px;
 }
 
   footer {
